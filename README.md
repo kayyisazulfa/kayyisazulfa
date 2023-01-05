@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center"> Kayyisa Zulfa! </h1>
 <h3 align="center">Hi, my name is Kayyisa and I'm curently studying in Telkom University</h3>
 
